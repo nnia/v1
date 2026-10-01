@@ -1,0 +1,51 @@
+/* Общие стили страницы */
+body {
+  width: 412;
+  height: 917;
+  justify-content: space-between;
+  angle: 0 deg;
+  opacity: 1;
+  padding-top: 40px;
+  padding-bottom: 15px;
+}
+
+/* Стили для карточки с контентом */
+.card {
+    background: linear-gradient(180deg, #C4D5ED 0%, #BDCDE7 99.99%);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 400px;
+}
+
+/* Стили заголовка */
+h1 {
+    color: #333333;
+    margin-bottom: 15px;
+}
+
+/* Стили текста */
+p {
+    color: #666666;
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+/* Стили кнопки */
+.btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* Эффект при наведении на кнопку */
+.btn:hover {
+    background-color: #0056b3;
+}
