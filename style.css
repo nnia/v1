@@ -28,24 +28,21 @@ h1 {
 /* Стили текста */
 p {
 
-    margin-bottom: 20px;
-    font-family: Kantumruy Pro;
-    font-weight: 700;
-    font-style: Bold;
-    font-size: 24px;
-    leading-trim: NONE;
-    line-height: 100%;
-    letter-spacing: 0%;
-    text-align: right;
-    vertical-align: middle;
 
-  width: 170;
-  height: 14;
-  justify-content: space-between;
-  angle: 0 deg;
-  opacity: 1;
-  top: 80px;
-  left: 90px;
+font-family: Kantumruy Pro;
+font-weight: 400;
+font-style: Regular;
+font-size: 16px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+vertical-align: middle;
+text-decoration: underline;
+text-decoration-style: solid;
+text-decoration-offset: 0%;
+text-decoration-thickness: 0%;
+text-decoration-skip-ink: auto;
 
 }
 
